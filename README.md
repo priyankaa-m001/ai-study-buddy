@@ -53,5 +53,3 @@ hardcoded or committed to the repository.
 - Support difficulty levels (easy/medium/hard)
 - Add a timer for a more exam-like experience
 
-## Screenshot
-*(Add a screenshot of your running app here after you deploy or run it locally)*
